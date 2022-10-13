@@ -55,8 +55,10 @@ samples, guidance on mobile development, and a full API reference.
 <table>
 <tr><td align="center"><a href="https://github.com/nik25s"><kbd><img src="https://avatars.githubusercontent.com/u/90770057?v=4" title="github" width="100px;" alt=""/></kbd><br /><sub><b>Nishant Suthar</b></sub></a><br</td>
 </table>
+<table>
 <tr><td align="center"><a href="https://github.com/kdpandey09"><kbd><img src="https://avatars.githubusercontent.com/u/81414421?v=4" title="github" width="100px;" alt=""/></kbd><br /><sub><b>KAUSTUB DUTT PANDEY</b></sub></a><br</td>
 </table>
+<table>
 <tr><td align="center"><a href=https://github.com/charchit-agarwal"><kbd><img src="https://avatars.githubusercontent.com/u/81102632?v=4" title="github" width="100px;" alt=""/></kbd><br /><sub><b>Charchit Agarwal</b></sub></a><br</td>
 </table>
   
