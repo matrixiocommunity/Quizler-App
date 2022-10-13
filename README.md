@@ -24,6 +24,10 @@ samples, guidance on mobile development, and a full API reference.
     </a>
 </p>
  
+    
+   ![Untitled design](https://user-images.githubusercontent.com/100709956/195650076-eff5603e-f375-4424-9f17-abdf4d0f1fe7.gif)
+ ---
+    
 <p align="center">
   <a href="https://hacktoberfest.digitalocean.com/">
       <img src="https://user-images.githubusercontent.com/100709956/195295606-1601c2fb-cf30-4e63-b7a9-c29b966aabc9.png"
@@ -52,7 +56,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Project Maintainers ✨
 <table>
-<tr><td align="center"><a href="https://github.com/nik25s"><kbd><img src="[https://avatars.githubusercontent.com/u/81414421?v=4](https://avatars.githubusercontent.com/u/90770057?v=4)" title="github" width="100px;" alt=""/></kbd><br /><sub><b>Nishant Suthar</b></sub></a><br</td>
+<tr><td align="center"><a href="https://github.com/nik25s"><kbd><img src="https://avatars.githubusercontent.com/u/90770057?v=4" title="github" width="100px;" alt=""/></kbd><br /><sub><b>Nishant Suthar</b></sub></a><br</td>
 </table>
   
   
