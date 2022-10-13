@@ -19,10 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 <a href= "https://user-images.githubusercontent.com/100709956/195648252-cc09b125-69e6-415e-9fd5-e6b8b2a8a70a.gif">CLONE THIS REPOSITORY</a>
 <br><br>
 <p>
-    <a href="https://user-images.githubusercontent.com/100709956/195648252-cc09b125-69e6-415e-9fd5-e6b8b2a8a70a.gif">
-        <img style="width:900px;" src= "assests\Untitled design.gif"
-    </a>
-</p>
  
     
    ![Untitled design](https://user-images.githubusercontent.com/100709956/195650076-eff5603e-f375-4424-9f17-abdf4d0f1fe7.gif)
