@@ -39,7 +39,7 @@ class _quizpageState extends State<quizpage> {
           context: context,
           title: 'Finished!',
           desc:
-              'You\'ve reached the end of the quiz.\n Press CANCEL to reset the Quiz\nYour score: $score / ${scorekeeper.length}',
+              'You\'ve reached the end of the quiz.\n Press CANCEL to reset the Quiz\nYour score:',
         ).show();
         quizBrain.reset();
         scorekeeper = [];
